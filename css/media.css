@@ -1,0 +1,555 @@
+@media only screen and (max-width: 1700px){
+    .six h3{
+        font-size: 25px;
+    }
+    .two{
+        background-position: -100px -9px;
+    }
+}
+@media only screen and (max-width: 1600px){
+    .two{
+        padding-top: 120px;
+        background-position: -200px 38px;
+    }
+}
+@media only screen and (max-width: 1500px){
+    .sixBlock2{
+        padding-left: 32px;
+    }
+    .two{
+        padding-top: 170px;
+        background-position: -200px 100px;
+    }
+}
+@media only screen and (max-width: 1400px){
+    .six h3 {
+        font-size: 24px;
+    }
+    .two{
+        padding-top: 225px;
+        background-position: -250px 143px;
+    }
+}
+
+@media only screen and (max-width: 1300px){
+    .six h3 {
+        font-size: 23px;
+    }
+    .two{
+        padding-top: 300px;
+        background-position: -300px 220px;
+    }
+    .footerContent{
+        width:100%;
+        padding-left:20px;
+        padding-right:20px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .six div:first-child{
+        width:40%;
+    }
+    .six div:last-child{
+        width:60%;
+    }
+    .two{
+        padding-top: 360px;
+        background-position: -400px 300px;
+    }
+    .priceBlock span{
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 1199px){
+    .two .container {
+        width: 100%;
+        max-width: 1100px;
+    }
+    .threeContent{
+        top: 0px;
+        background-size: contain;
+        width: 800px;
+        height: 553px;
+         padding-top: 220px;
+         position:relative;
+             margin: 0 auto;
+    }
+    .threeContent h2{
+        font-size: 23px;
+    }
+    .threeContent h3{
+        font-size: 32px;
+        margin-bottom: 8px;
+    }
+    .threeContent h4{
+            font-size: 30px;
+    }
+    .threeContent p{
+        font-size: 42px;
+        margin-bottom: 0px;
+    }
+    .threeContent span{
+        font-size: 20px;
+        line-height: 33.8px;
+    }
+}
+@media only screen and (max-width: 1100px){
+    .two{
+        padding-top: 400px;
+        background-position: -500px 350px;
+    }
+    .fixed_elka{
+        top: -95px;
+    }
+    h1{
+        font-size: 40px;
+    }
+    .slider_content{
+        padding-top: 232px;
+    }
+}
+@media only screen and (max-width: 1000px){
+    .twoContent {
+        max-width: 100vw;
+    }
+    .result{
+        margin-top: 0;
+    }
+    .tableContent .col div {
+        margin-top: 10px;
+    }
+    .price{
+        margin-top: 146px;
+        margin-bottom: 6px;
+    }
+    .tableDescription p{
+        padding-right: 150px;
+    }
+    .tableContent .col div {
+        margin-top: -40px;
+    }
+    .tableHeader{display:none;}
+    .articul,
+    .title{
+        display: block;
+    width: 100%;
+    float: none;
+    max-width: 100%;
+    }
+    .two{
+        padding-top: 460px;
+        background-position: -550px 397px;
+    }
+    .twoHeader{
+        font-size: 18px;
+        padding-bottom: 9px;
+    }
+   .twoContent p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+}
+
+@media only screen and (max-width: 992px){
+    .two{
+        padding-top: 500px;
+    }
+    .three .container{
+        width:100%;
+    }
+    
+}
+@media only screen and (max-width: 900px){
+    .threeContent h2 {
+        font-size: 19px;
+    }
+    .two{
+        background-position: -580px 450px;
+    }
+
+    .threeContent{
+        top: 39px;
+        width: 530px;
+        height: 456px;
+        padding-top: 154px;
+        padding-left: 0;
+        padding-right: 34px;
+        background-image: url('../images/threeContentMin.png');
+    }
+    .threeContent h3 {
+        margin-bottom: 0;
+    }
+    .threeContent p {
+        font-size: 39px;
+        line-height: 55px;
+    }
+    .footer{
+        display:none;
+    }
+}
+@media only screen and (max-width: 800px){
+    .six div{
+        width:100%!important;
+        float:none;
+    }
+    .two{
+        padding-top: 600px;
+        background-position: -650px 511px;
+        padding-bottom: 50px;
+    }
+    footer{
+        height:auto;
+        padding-bottom: 20px;
+    }
+    .footerContent{
+        padding-top: 5px;
+    }
+    footer h3{
+        font-size: 14px;
+        line-height: 23px;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .res{
+        background-color: #feefef;
+        min-width: auto;
+        padding-right: 20px;
+        text-align: center;
+    }
+    .four h2 {
+        font-size: 36px;
+    }
+    .four h3 {
+        font-size: 29px;
+    }
+    .tableDescription p {
+        padding-right: 15px;
+    }
+    .four {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .four h2{
+        font-size: 42px;
+    }
+    .four h3{
+        font-size: 34px;
+    }
+    .five{
+        padding-bottom: 47px;
+    }
+    .fiveFormBlock .fiveBtn{
+        background-size: contain;
+        background-repeat:no-repeat;
+        width: 348px;
+        height: 64px;
+        font-size: 22px;
+    }
+    .fiveFormBlock{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .tableDescription td p {
+        border-top: 1px dashed #d2d2d2!important;
+        border-bottom: 2px solid #333;
+        margin-bottom: 20px;
+    }
+    .priceBlock,
+    .col,
+    .sum{
+        display: block;
+        width: 100%;
+        float: none;
+        max-width: 100%;
+    }
+    .price{
+        margin-top:0;
+    }
+    .tableContent .col div{
+        margin-top: 10px;
+    }
+    .twoHeader {
+        font-size: 17px;
+        line-height: 19px;
+    }
+    .twoContent p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .two h2{
+        font-size: 18px;
+    }
+    .two h3{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .two h4{
+         margin-bottom: 50px;
+         font-size: 14px;
+     }
+     .two {
+        padding-top: 650px;
+        background-position: -954px 516px;
+        padding-bottom: 50px;
+    }
+     
+     
+     .time{
+         width: 100px;
+         height: 100px;
+         padding-top: 19px;
+     }
+     .time p {
+        font-size: 33px;
+        margin-top: 22px;
+    }
+     #one h2{
+        font-size: 33px;
+     }
+     h1 {
+        font-size: 36px;
+    }
+     h1>span{
+         font-size: 67px;
+     }
+}
+@media only screen and (max-width: 600px){
+    .threeContent {
+        background-image: url('../images/threeContentMob.png');
+        width: 422px;
+        height: 373px;
+        padding-right: 13px;
+        padding-top: 128px;
+        top: 85px;
+    }
+    .threeContent h2 {
+    font-size: 16px;
+}
+    .threeContent h3 {
+        font-size: 30px;
+        line-height: 24px;
+    }
+    .threeContent h4{
+        line-height: 48px;
+    }
+    .threeContent p {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .threeContent span {
+        font-size: 17px;
+        line-height: 33.8px;
+    }
+    .two h3{
+        margin-bottom: 20px;
+    }
+    .two{
+        padding-top: 668px;
+        padding-bottom: 20px;
+        background-position: -954px 604px;
+    }
+    .time{
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 90px;
+        height: 90px;
+        padding-top: 12px;
+    }
+    h1 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    h1>span {
+        font-size: 43px;
+    }
+    #one h2 {
+        font-size: 28px;
+    }
+    #one h3{
+        font-size: 47px;
+    }
+    .time p {
+        font-size: 30px;
+    }
+    .two h4 {
+        margin-bottom: 30px;
+    }
+    .twoContent p{
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 500px){
+    .itogo, .res {
+        float: none;
+        width: 100%;
+        text-align: center;
+        padding-right: 50px;
+    }
+    .two {
+        padding-top:700px;
+        background:none;
+        background-color:#fff;
+    }
+}
+@media only screen and (max-width: 450px){
+    .anchor{
+        top: 40%;
+    }
+    #snow-start{
+        display:none;
+    }
+    .five h2 {
+        font-size: 32px;
+    }
+    .fiveFormBlock input{
+        padding-top: 0px;
+    }
+    .fiveFormBlock textarea{
+        height: 70px;
+    }
+    .fiveFormBlock p{
+        font-size: 14px;
+        margin-top: 17px;
+    }
+    .six p {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+    .tableContent img {
+        max-width: 250px;
+    }
+    .four{
+        padding-top: 0;
+    }
+    .four h3 {
+        font-size: 28px;
+    }
+    .four h2 {
+        font-size: 35px;
+    }
+    .fiveFormBlock .fiveBtn {
+        background-size: contain;
+        width:100%;
+        max-width: 76vw;
+        height: 55px;
+        font-size: 19px;
+        padding-left:0;
+    }
+    .five h2{
+        font-size: 41px;
+    }
+    .two {
+        padding-top:750px;
+    }
+    .three{
+            background-image: none;
+                min-height:100%;
+    }
+    .threeContent{
+        width: 100%;
+        background-image: none;
+        top: 0;
+        padding-top:20px;
+    }
+    .threeContent h2 {
+        font-size: 25px;
+        line-height: 60px;
+    }
+    .threeContent h3 {
+        font-size: 37px;
+        line-height: 37px;
+    }
+    .threeContent h4 {
+        line-height: 65px;
+    }
+    .threeContent p {
+        font-size: 43px;
+        line-height: 65px;
+    }
+    .threeContent span {
+        font-size: 22px;
+        line-height: 42.8px;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .sixBlock2{
+        padding-top: 28px;
+    }
+    .back{
+    top: 67%;
+    left: calc(50% - 69px);
+    width: 138px;
+    height: 30px;
+    background-image: url(../images/button_back.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0px;
+    border: 0;
+    border-radius:0px;
+    transition: all 1s;
+    background-color: rgba(111, 14, 0, 0);
+    }
+    .slider_content {
+        padding-top: 56px;
+    }
+    .slide1{
+        height: 667px;
+    }
+    .two {
+        padding-top: 500px;
+    }
+    .fiveFormBlock input {
+        padding-top: 3px;
+    }
+}
+@media only screen and (max-width: 400px){
+    footer{
+        padding-bottom: 7px;
+    }
+    footer h3{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .title video{
+        width:100%;
+    }
+    .four h2 {
+        font-size: 30px;
+    }
+    .four h3 {
+        font-size: 24px;
+    }
+    .five h2 {
+    font-size: 35px;
+}
+    .fiveFormBlock .fiveBtn{
+        font-size:16px;
+        height: 50px;
+     }
+    .two {
+        padding-top:547px;
+    }
+    .threeContent h2 {
+        line-height: 27px;
+        margin-bottom: 20px;
+    }
+    .threeContent p {
+        font-size: 38px;
+    }
+}
+@media only screen and (max-width: 320px){
+    .fiveFormBlock .fiveBtn{
+        text-align: center;
+        padding-top: 0px;
+        height: 46px;
+    }
+    h1 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    #one h3 {
+        font-size: 42px;
+    }
+}
